@@ -1,0 +1,6 @@
+name: PandaShop
+version: '${version}'
+main: org.mrerrors.pandashop.PandaShop
+api-version: '1.20'
+load: STARTUP
+authors: [MrErrors]
